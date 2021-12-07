@@ -1,4 +1,4 @@
-# haxe-micro-plugin
+# haxe-micro-syntax
 Haxe syntax for Micro Editor 
 
 Install by placing the syntax file into your syntax directory:
